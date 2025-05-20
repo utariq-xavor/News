@@ -1,0 +1,10 @@
+{
+  "name": "newfetchservice",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "dependencies": {
+    "rss-parser": "^3.12.0",
+    "node-fetch": "^2.6.7",
+    "@extractus/article-extractor": "2.0.4"
+  }
+}
